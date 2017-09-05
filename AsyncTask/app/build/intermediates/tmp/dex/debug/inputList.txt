@@ -1,0 +1,1 @@
+D:\AndroidStudioProjects\AsyncTask\app\build\intermediates\classes\debug
