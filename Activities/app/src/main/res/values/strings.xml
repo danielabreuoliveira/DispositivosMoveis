@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activities</string>
+    <string name="textMsg">Hello World!</string>
+    <string name="btnGo">Ir para SegundaActivity</string>
+    <string name="txtSegundaActivity">Esta é a segunda activity</string>
+    <string name="btnText">Voltar para PrimeiraActivity</string>
+
+</resources>
