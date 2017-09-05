@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/Threads/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/AndroidStudioProjects/Threads/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Threads</string>
+    <string name="btn_processar">Processar</string>
+    <string name="finalizado">Processamento finalizado!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="processando">Processando...</string>
+    <!-- From: file:/D:/AndroidStudioProjects/Threads/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
