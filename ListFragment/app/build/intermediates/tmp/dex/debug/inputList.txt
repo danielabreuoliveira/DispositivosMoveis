@@ -1,0 +1,1 @@
+D:\AndroidStudioProjects\ListFragment\app\build\intermediates\classes\debug
