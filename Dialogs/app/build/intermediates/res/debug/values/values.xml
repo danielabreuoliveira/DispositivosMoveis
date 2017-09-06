@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/Dialogs/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="bandas">
+        <item>Foo Fighters</item>
+        <item>Aerosmith</item>
+        <item>Metallica</item>
+        <item>Beatles</item>
+    </string-array>
+    <!-- From: file:/D:/AndroidStudioProjects/Dialogs/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/AndroidStudioProjects/Dialogs/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Dialogs</string>
+    <string name="txt_dialog">Abrir Dialog</string>
+    <string name="txt_dialog_multiple">Abrir Dialog Múltiplo</string>
+    <string name="txt_dialog_radio">Abrir Dialog com Radio Button</string>
+    <string name="txt_dialog_simple">Abrir Dialog Simples</string>
+    <!-- From: file:/D:/AndroidStudioProjects/Dialogs/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
